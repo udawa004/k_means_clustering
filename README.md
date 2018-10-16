@@ -17,3 +17,10 @@ A partitional clustering algorithm is developed based on follwing two implementa
 A) Standard Sum of Squares Error Criterion Function for k means.
 B) Spherical k means : I2 Criterion Function
 
+Langauges Used:
+
+1) Python is used for data pre processing, i.e. subset selection from data and sparse vector representation.
+    
+    Package Used: Beautiful Soup
+    
+2) Java is used for implementing the k means based clustering algorithm.
